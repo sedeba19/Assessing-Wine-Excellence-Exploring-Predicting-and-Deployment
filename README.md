@@ -4,7 +4,7 @@ Although I'm not well-versed in wine tasting, I am genuinely intrigued by the pr
 
 In an effort to avoid the disappointment of unfinished wine bottles at dinners or gatherings, I've adopted a strategy of purchasing wines based on their scores. I'm aware that these scores are highly subjective in nature. A wine rating is essentially a judgment assigned by wine critics after evaluating a wine, encapsulating their overall impression of the wine. It's a personal assessment, often conveyed through a numerical rating.
 
-Despite the subjectivity involved, I must admit that my experience with this approach, which relies on selecting wines with high scores, has been quite positive. Nonetheless, I've recognized a limitation in this method: it restricts my options to wines that have been scored. This limitation has led me to yearn for the ability to access exceptional wines from vineyards that lack exposure to these prestigious yet costly wine critics.
+Although it's a bit subjective, I have to admit that choosing wines with high scores has worked well for me. But, I've noticed a downside: it means I'm only considering wines that have been scored. This limitation makes me wish I could find great wines from places that aren't reviewed by fancy critics, who can be pretty expensive.
 
 This brings me to an intriguing question: Is there a systematic way to score wines? Could there potentially be an automated method for wine scoring?
 
